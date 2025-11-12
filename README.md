@@ -1,0 +1,1 @@
+The MIT Caliper enables the company operating the well to obtain detailed insights into the internal surface of pipes. Each "finger" of the MIT makes contact with the inner pipe wall, recording distance measurements. After applying the necessary transformations, these measurements provide accurate radius values of the pipe at each sampled location.
