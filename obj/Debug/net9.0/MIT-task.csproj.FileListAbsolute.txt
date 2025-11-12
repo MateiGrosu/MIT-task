@@ -1,0 +1,14 @@
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/bin/Debug/net9.0/MIT-task
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/bin/Debug/net9.0/MIT-task.deps.json
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/bin/Debug/net9.0/MIT-task.runtimeconfig.json
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/bin/Debug/net9.0/MIT-task.dll
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/bin/Debug/net9.0/MIT-task.pdb
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.AssemblyInfoInputs.cache
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.AssemblyInfo.cs
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.csproj.CoreCompileInputs.cache
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.dll
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/refint/MIT-task.dll
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.pdb
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/MIT-task.genruntimeconfig.cache
+/Users/mateigrosu/Documents/projects/MIT-task/MIT-task/obj/Debug/net9.0/ref/MIT-task.dll
