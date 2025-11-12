@@ -13,7 +13,7 @@ class Program
             double pipeDiamMM = 254; //mm
             double pipeRadMM = pipeDiamMM / 2.0;
 
-            // first retrieve the path of the data document /Users/mateigrosu/Downloads/data.txt
+            // first retrieve the path of the data document 
             string inPath = RetrievePath(args);
 
             // check it exists
